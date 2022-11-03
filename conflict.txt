@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 tere, siin on uus rida
 kiiii
 teine rida teksti
+=======
+lolol
+tervist härrad
+teine rida teksti
+>>>>>>> 1f261f71cdb094e0cf079f2e31d003e3f4ebb7e3
