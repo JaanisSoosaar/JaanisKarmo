@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="stiil.css">
+        <title>
+            Hinnad
+        </title>
+    </head>
+    <body>
+
+        <h1>
+            Siin on meie parimad hinnad
+        </h1>
+        <ul>
+            <li>Tapeet </li>
+            <li>põranda lauad </li>
+            <li>liistud </li>
+            <li>liistud </li>
+            <li>liistud </li>
+            <li>liistud </li>
+            <li>liistud </li>
+            <li>liistud </li>
+        </ul>
+    </body>
+    
+</html>
