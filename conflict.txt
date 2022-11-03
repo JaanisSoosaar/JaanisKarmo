@@ -1,2 +1,3 @@
-paar rida teksti
+tere, siin on uus rida
+kiiii
 teine rida teksti
