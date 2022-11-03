@@ -1,7 +1,29 @@
-h1 {font-family: Brush Script MT; text-align:left; font-size: 350%}
-body {background-color: powderblue;}
-.nupp1 {background-color: green; color: white;
-    border: 2px solid black; padding: 16px 32px;}
+h1 {font-family: Brush Script MT;
+    text-align:left;
+    font-size: 350%}
+body {
+    background-color: powderblue;}
+img {
+    max-width: 100%;
+    height: auto;}
+
+.nupp1 {
+    background-color: green;
+    color: white;
+    border: 2px solid black;
+    padding: 16px 32px;}
+
+.column1 {
+    float: left;
+    width: 50%;}
+
+.column2 {
+    float: right;
+    width: 50%;}
+
+.piltvasakul {
+    width:"128px";
+    height:"128px";}
 /*
 .nupp2 {background-color: green;}
 */
